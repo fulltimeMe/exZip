@@ -11,6 +11,10 @@ downloaded folder (files) to the "/home/" or the "/root/" directory
 
 # Start (Windows)
 Open the CMD window and use the command "exZip" to start.
-Now first enter your target file (e.g. C:/Users/User/Desktop/temp.zip)
-and then the target folder (e.g. C:/Users/User/Desktop/extract)
+Now first enter your target file (e.g.C:/Users/User/Desktop/temp.zip)
+and then the target folder (e.g.C:/Users/User/Desktop/extract)
 note that every "\" must be replaced by a "/".
+
+# Start (Linux)
+Open the terminal and enter "python3 exZip.py" then enter the target file
+(e.g./home/Desktop/temp.zip) and the target folder (e.g./home/Desktop/extrect/).
