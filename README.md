@@ -1,5 +1,5 @@
 # exZip
-A console A terminal based ZIP extrector.
+A terminal based ZIP extrector.
 
 # Installation (Windows)
 If you are using Windows please run the installer.
